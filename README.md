@@ -13,7 +13,7 @@ The Amazon Vine program acquires product reviews from reviewers who receive prod
 - There are 52,255 total five star reviews.<br><br>
   <img src=five_star_reviews.png></img><br>
 - There are 6 Vine five star reviews.<br><br>
-  <img src=paid_five_star_reviews.png></img><br><br>
+  <img src=paid_five_star_reviews.png></img><br>
 - The overall proportion of five star reviews is 50%:<br><br>
   <img src=percent_five_star_reviews.png></img><br>
 - The proportion of Vine five star reviews is 33%:<br><br>
