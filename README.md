@@ -18,3 +18,7 @@ The Amazon Vine program acquires product reviews from reviewers who receive prod
   <img src=percent_five_star_reviews.png></img><br>
 - The proportion of Vine five star reviews is 33%:<br><br>
   <img src=percent_paid_five_star_reviews.png></img><br>
+## Summary
+The proportion of five star reviews for the Vine program is lower than the general population.<br>
+There is no evidence of positive bias in the Vine reviews in this data.<br><br>
+Further analysis could be done on the helpful review population to get more insight into the value of the Vine reviews.
