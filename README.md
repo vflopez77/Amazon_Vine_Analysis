@@ -5,12 +5,12 @@ The Amazon Vine program acquires product reviews from reviewers who receive prod
 
 ## Results
 ### Total Reviews
-- There are 104,975 total reviews.<br>
+- There are 104,975 total reviews.<br><br>
   <img src=total_reviews.png></img><br>
-- There are 18 Vine reviews.<br>
+- There are 18 Vine reviews.<br><br>
   <img src=paid_reviews.png></img><br>
 ### Five Star Reviews
-- There are 52,255 total five star reviews.<br>
+- There are 52,255 total five star reviews.<br><br>
   <img src=five_star_reviews.png></img><br>
-- There are 6 Vine five star reviews.<br>
+- There are 6 Vine five star reviews.<br><br>
   <img src=paid_five_star_reviews.png></img><br>  
